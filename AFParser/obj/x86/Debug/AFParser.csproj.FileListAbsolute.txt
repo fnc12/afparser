@@ -1,0 +1,9 @@
+\\vmware-host\Shared Folders\Shared\VS Projects\AFParser\AFParser\bin\Debug\AFParser.exe
+\\vmware-host\Shared Folders\Shared\VS Projects\AFParser\AFParser\bin\Debug\AFParser.pdb
+\\vmware-host\Shared Folders\Shared\VS Projects\AFParser\AFParser\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Shared\VS Projects\AFParser\AFParser\obj\x86\Debug\AFParser.Form1.resources
+\\vmware-host\Shared Folders\Shared\VS Projects\AFParser\AFParser\obj\x86\Debug\AFParser.Properties.Resources.resources
+\\vmware-host\Shared Folders\Shared\VS Projects\AFParser\AFParser\obj\x86\Debug\GenerateResource.read.1.tlog
+\\vmware-host\Shared Folders\Shared\VS Projects\AFParser\AFParser\obj\x86\Debug\GenerateResource.write.1.tlog
+\\vmware-host\Shared Folders\Shared\VS Projects\AFParser\AFParser\obj\x86\Debug\AFParser.exe
+\\vmware-host\Shared Folders\Shared\VS Projects\AFParser\AFParser\obj\x86\Debug\AFParser.pdb
